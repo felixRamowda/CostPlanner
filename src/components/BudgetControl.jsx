@@ -9,7 +9,7 @@ const BudgetControl = ({ budget }) => {
     };
 
     return (
-        <div className="contenedor-presupuesto contenedor sombra dos-columnas">
+        <div className="contenedor-presupuesto contenedor sombra dos-columnas ">
             <div>
                 <p>here grafic</p>
             </div>
